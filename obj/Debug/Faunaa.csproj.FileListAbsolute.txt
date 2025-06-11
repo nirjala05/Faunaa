@@ -1,0 +1,5 @@
+c:\users\bhvvh\onedrive\documents\visual studio 2010\Projects\Faunaa\Faunaa\bin\Faunaa.dll
+c:\users\bhvvh\onedrive\documents\visual studio 2010\Projects\Faunaa\Faunaa\bin\Faunaa.pdb
+c:\users\bhvvh\onedrive\documents\visual studio 2010\Projects\Faunaa\Faunaa\obj\Debug\Faunaa.dll
+c:\users\bhvvh\onedrive\documents\visual studio 2010\Projects\Faunaa\Faunaa\obj\Debug\Faunaa.pdb
+C:\Users\bhvvh\onedrive\documents\visual studio 2010\Projects\Faunaa\Faunaa\obj\Debug\Faunaa.csprojResolveAssemblyReference.cache
